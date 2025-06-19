@@ -8,15 +8,16 @@ To create an interactive sales dashboard using Excel and Power BI. This dashboar
 - Power BI (charts, slicers, DAX)
 
 ## 📁 Files Included
-- sales_data.xlsx
-- sales_dashboard.pbix
-- screenshots/
-- project_summary.pdf (optional)
+- `sales_dashboard.pbix` – Power BI dashboard
+- `sales_data_cleaned.xlsx` – Cleaned dataset
+- `dashboard_screenshot.png` – Final output
 
 ## 📈 Key Features
-- Monthly and yearly sales trends
-- Top-performing products and categories
-- Region-wise breakdown with filters
+- 📈 Monthly Sales Trend
+- 📦 Sales by Product Category
+- 🌍 Sales by Country/Region
+- 🧑‍💼 Top Customer by Revenue (using DAX)
+- 💰 KPI cards: Total Revenue & Total Orders
 
 ## 🔗 Demo (Optional)
 Add screenshots or a link to a published Power BI report if available.
