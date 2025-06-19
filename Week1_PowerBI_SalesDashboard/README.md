@@ -18,6 +18,6 @@ To create an interactive sales dashboard using Excel and Power BI. This dashboar
 - 🌍 Sales by Country/Region
 - 🧑‍💼 Top Customer by Revenue (using DAX)
 - 💰 KPI cards: Total Revenue & Total Orders
-
-## 🔗 Demo (Optional)
-Add screenshots or a link to a published Power BI report if available.
+  
+## 📷 Dashboard Preview
+![Dashboard](dashboardscreenshot.png)
